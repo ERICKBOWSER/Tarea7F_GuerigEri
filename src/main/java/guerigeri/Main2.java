@@ -85,10 +85,10 @@ public class Main2 {
                 .sorted((e1, e2) -> e1.getApellidos().compareTo(e2.getApellidos()))
                 .forEach(System.out :: println);
         
-        System.out.println("Lista con nombres que no contienen el nombre Jonh");
+        System.out.println("Lista con nombres que contienen el nombre Jonh");
         lista.stream()
                 .filter(e1 -> e1.getNombre().contains("Jonh"))
-                .distinct()
+                .map(e1 -> e1.getNombre())
                 .forEach(System.out :: println);
         
         
