@@ -1,0 +1,1401 @@
+[ {
+  "apellidos" : "Alhambra Bullón",
+  "nombre" : " Dolores M.",
+  "dni" : "24198392T",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "958261885",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Álvarez Bermudo",
+  "nombre" : " Mario",
+  "dni" : "08921749A",
+  "puesto" : "Area Científico-Tecnolog. (Apoyo Covid)",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "626427174",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Álvarez Chamizo",
+  "nombre" : " Cristina",
+  "dni" : "33353948S",
+  "puesto" : "Contr. Lab. Religión (Sec-Ere) 05 Horas",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "651429273",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Álvarez Chamizo",
+  "nombre" : " Cristina",
+  "dni" : "08914265V",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2006, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952896014",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Álvarez Chamizo",
+  "nombre" : " Cristina",
+  "dni" : "33347173W",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "636244624",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Arroyo Pretel",
+  "nombre" : " Jean Paul",
+  "dni" : "25679044G",
+  "puesto" : "Contr. Lab. Religión (Sec-Ere) 06 Horas",
+  "fechaPosesion" : [ 2021, 1, 15 ],
+  "fechaCese" : [ 2021, 2, 14 ],
+  "telefono" : "676050580",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Arroyo Pretel",
+  "nombre" : " Jean Paul",
+  "dni" : "75818111Z",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "658504596",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Avilés Jiménez",
+  "nombre" : " Beatriz",
+  "dni" : "28614411L",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2016, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Baena Escaño",
+  "nombre" : " Claudia",
+  "dni" : "75563185C",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 21 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Baena Valero",
+  "nombre" : " Juan José",
+  "dni" : "27347150N",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2013, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952869739",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Báez Ruiz",
+  "nombre" : " Concepción",
+  "dni" : "22723547F",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 1991, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Bain Antonyak",
+  "nombre" : " Diego",
+  "dni" : "45711491A",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "600453894",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Baraza Zamorano",
+  "nombre" : " Laura",
+  "dni" : "26966400G",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "638310087",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Barroso Jiménez",
+  "nombre" : " María Isabel",
+  "dni" : "53151310N",
+  "puesto" : "Sistemas Electrónicos P.E.S.",
+  "fechaPosesion" : [ 2003, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952806165",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Berenguel Álvarez",
+  "nombre" : " Pablo",
+  "dni" : "52571560T",
+  "puesto" : "Biología y Geología P.E.S.",
+  "fechaPosesion" : [ 2005, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952800769",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Cárdenas Díaz",
+  "nombre" : " Laura",
+  "dni" : "26800485B",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2010, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "617704193",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Carmona Serrano",
+  "nombre" : " Laura",
+  "dni" : "06572131L",
+  "puesto" : "Dibujo P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "616534693",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Carrillo Moreno",
+  "nombre" : " Carmen Isabel",
+  "dni" : "75006921B",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 1992, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "692176980",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Carrillo Moreno",
+  "nombre" : " Carmen Isabel",
+  "dni" : "52555297K",
+  "puesto" : "Formación y Orientación Laboral P.E.S.",
+  "fechaPosesion" : [ 2018, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "630753403",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Cocinero Molinero",
+  "nombre" : " Melania",
+  "dni" : "74906891P",
+  "puesto" : "Dibujo P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "618640089",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "De la Fe Fernández",
+  "nombre" : " Rosa María",
+  "dni" : "31018171A",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 11, 5 ],
+  "fechaCese" : [ 2020, 12, 9 ],
+  "telefono" : "672785425",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "De la Fe Fernández",
+  "nombre" : " Rosa María",
+  "dni" : "75115004V",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "606648952",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Díaz Puerto",
+  "nombre" : " Francisco Javier",
+  "dni" : "50602307F",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "655526696",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Díaz Puerto",
+  "nombre" : " Francisco Javier",
+  "dni" : "24263559P",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "958443348",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Domínguez Tamayo",
+  "nombre" : " Julen",
+  "dni" : "03888739Z",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "951249955",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Domínguez Tamayo",
+  "nombre" : " Julen",
+  "dni" : "44756577A",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2016, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "647582371",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Durán Blanco",
+  "nombre" : " José Antonio",
+  "dni" : "74696158R",
+  "puesto" : "Dibujo P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "958292195",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Escalona González",
+  "nombre" : " Rosa",
+  "dni" : "27340284T",
+  "puesto" : "Contr. Lab. Religión (Sec-Ere) 06 Horas",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "639177088",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Escobar Márquez",
+  "nombre" : " Luís María",
+  "dni" : "25661407P",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952806165",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Escudero Hernández",
+  "nombre" : " Virginia",
+  "dni" : "30787489B",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "951576056",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Fagundo García",
+  "nombre" : " Emilia",
+  "dni" : "12731426Y",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "689100483",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Fernández López",
+  "nombre" : " Pedro José",
+  "dni" : "26974925L",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "620089634",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Fernández Luzón",
+  "nombre" : " Rodrigo",
+  "dni" : "74663933E",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2010, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "717121280",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Fernández Mangano",
+  "nombre" : " Luis Miguel",
+  "dni" : "44263282N",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "600039589",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Fernández Ramírez",
+  "nombre" : " Cristina",
+  "dni" : "76748408F",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "658402109",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Fortea Molina",
+  "nombre" : " Pastora",
+  "dni" : "77455412Z",
+  "puesto" : "Francés P.E.S.",
+  "fechaPosesion" : [ 2009, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "656491528",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Fortea Molina",
+  "nombre" : " Pastora",
+  "dni" : "28840307D",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 12, 2 ],
+  "fechaCese" : [ 2020, 12, 23 ],
+  "telefono" : "666083282",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "García Beneite",
+  "nombre" : " Cora Ángeles",
+  "dni" : "77455262W",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "952795942",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "García Beneite",
+  "nombre" : " Cora Ángeles",
+  "dni" : "75158773V",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2020, 10, 2 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "García Del Valle",
+  "nombre" : " Ana",
+  "dni" : "24228342G",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2003, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "670031576",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "García Pascual",
+  "nombre" : " Almudena",
+  "dni" : "25718794X",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "655198361",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Garrocho González",
+  "nombre" : " Cristina",
+  "dni" : "33397284L",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2011, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Gijón Mateo",
+  "nombre" : " Emilia",
+  "dni" : "25931941Q",
+  "puesto" : "Biología y Geología P.E.S.",
+  "fechaPosesion" : [ 2020, 4, 3 ],
+  "fechaCese" : [ 2025, 4, 2 ],
+  "telefono" : "952782069",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Giráldez Cuevas",
+  "nombre" : " María",
+  "dni" : "07986998H",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "636443041",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Giráldez Cuevas",
+  "nombre" : " María",
+  "dni" : "34843289Z",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "661954911",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Girón Vega",
+  "nombre" : " María Dolores",
+  "dni" : "29077348N",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 1992, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952794470",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "González Astilleros",
+  "nombre" : " Verónica",
+  "dni" : "25565241M",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2009, 6, 22 ],
+  "fechaCese" : [ 2021, 1, 24 ],
+  "telefono" : "952795965",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "González Chamizo",
+  "nombre" : " María",
+  "dni" : "45714123J",
+  "puesto" : "Biología y Geología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "953718296",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "González Garzón",
+  "nombre" : " Álvaro",
+  "dni" : "74934666E",
+  "puesto" : "Biología y Geología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "687654302",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "González Juliá",
+  "nombre" : " María del Carmen",
+  "dni" : "78988638Z",
+  "puesto" : "Area de Lengua y CC. Soc. (Apoyo Covid)",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "685031987",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "González Ramírez",
+  "nombre" : " Jessica",
+  "dni" : "79055309P",
+  "puesto" : "Orientación Educativa P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "640656461",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Hernández Lozano",
+  "nombre" : " Remedios",
+  "dni" : "26485849S",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2008, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952807303",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Hidalgo Villa",
+  "nombre" : " Javier",
+  "dni" : "08922573E",
+  "puesto" : "Contr. Lab.Evangelic. (Sec-Ere) 04 Horas",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "606748632",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Horno Cabrera",
+  "nombre" : " María del Carmen",
+  "dni" : "74831388Z",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Jiménez Jiménez",
+  "nombre" : " Amparo",
+  "dni" : "77455402G",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "649446973",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Lara Orive",
+  "nombre" : " Rachel",
+  "dni" : "78961479H",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2004, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952800329",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "León Sánchez",
+  "nombre" : " María Luisa",
+  "dni" : "75710637L",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "670557617",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Lincoln Romero",
+  "nombre" : " Guillermo",
+  "dni" : "34843485A",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2021, 2, 1 ],
+  "fechaCese" : [ 2021, 3, 31 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Lirola Oliva",
+  "nombre" : " Ana",
+  "dni" : "74868422H",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2008, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "665475984",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "López Córdoba",
+  "nombre" : " Marta",
+  "dni" : "75128842D",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "615348684",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Macías Laynez",
+  "nombre" : " Magdalena",
+  "dni" : "25583669X",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2010, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "951965362",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Malmesat Rodríguez",
+  "nombre" : " Mercedes",
+  "dni" : "25713795W",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "619160218",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Manuel Coronado",
+  "nombre" : " David",
+  "dni" : "80133984Y",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 2004, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952805430",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Márquez Pineda",
+  "nombre" : " Jacqueline Cristina",
+  "dni" : "74867075M",
+  "puesto" : "Orientación Educativa P.E.S.",
+  "fechaPosesion" : [ 2008, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952340738",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Martín Fernández",
+  "nombre" : " Inmaculada Concepción",
+  "dni" : "70909878G",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "658036793",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Martínez Arriaza",
+  "nombre" : " Humberto",
+  "dni" : "80125358M",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 1987, 10, 1 ],
+  "fechaCese" : [ 2021, 4, 5 ],
+  "telefono" : "952800450",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Martínez Fernández",
+  "nombre" : " Inés",
+  "dni" : "75729511X",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "667069980",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Martínez Fernández",
+  "nombre" : " Inés",
+  "dni" : "53682231R",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2009, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952805153",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Maza Jurado",
+  "nombre" : " Elisa María",
+  "dni" : "77330277E",
+  "puesto" : "Economía P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "639839086",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mesa Rivera",
+  "nombre" : " Inmaculada del Mar",
+  "dni" : "23275278Z",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "660843827",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mesa Rivera",
+  "nombre" : " Inmaculada del Mar",
+  "dni" : "74885311W",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "662102628",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mesa Rivera",
+  "nombre" : " Inmaculada del Mar",
+  "dni" : "27344407Y",
+  "puesto" : "Cultura Clásica P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "952923096",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mesa Rivera",
+  "nombre" : " Inmaculada del Mar",
+  "dni" : "26458859G",
+  "puesto" : "Francés P.E.S.",
+  "fechaPosesion" : [ 1998, 9, 15 ],
+  "fechaCese" : null,
+  "telefono" : "952805430",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Mora Luciani",
+  "nombre" : " Estefanía",
+  "dni" : "77181164H",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "696203922",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Moral Yesa",
+  "nombre" : " Sandra",
+  "dni" : "53694108X",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2021, 1, 25 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "627856970",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Moreno Fernández",
+  "nombre" : " Eligia Rocío",
+  "dni" : "53593134Y",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "687187374",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mula GarcÃ­a",
+  "nombre" : " Andrés",
+  "dni" : "44590674E",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2017, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "675348998",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Mula GarcÃ­a",
+  "nombre" : " Andrés",
+  "dni" : "79044480N",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 11, 3 ],
+  "fechaCese" : [ 2020, 11, 3 ],
+  "telefono" : "669029507",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Muñoz Gómez",
+  "nombre" : " Triana",
+  "dni" : "74657046N",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "665883259",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Murillo García",
+  "nombre" : " María Jesús",
+  "dni" : "75743031Y",
+  "puesto" : "Pedagogía Terapeutica Eso",
+  "fechaPosesion" : [ 2005, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952802285",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Navarrete Fernández",
+  "nombre" : " Luis Ramón",
+  "dni" : "52294297W",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2006, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "955830943",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Navarrete Fernández",
+  "nombre" : " Luis Ramón",
+  "dni" : "78968283Z",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 28 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "671262118",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Navarro Martínez",
+  "nombre" : " Ana",
+  "dni" : "30234175P",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2021, 2, 15 ],
+  "fechaCese" : [ 2021, 3, 31 ],
+  "telefono" : "670683690",
+  "evaluador" : "No",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Navarro Martínez",
+  "nombre" : " Ana",
+  "dni" : "78969645L",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "685522638",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Núñez Murillo",
+  "nombre" : " Margarita",
+  "dni" : "75111043N",
+  "puesto" : "Sistemas y Aplic. Informáticos P.T.F.P.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "699987772",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Ortiz Álvarez",
+  "nombre" : " Raquel",
+  "dni" : "27337182A",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2013, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "951892984",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Pabón Alcaide",
+  "nombre" : " José Antonio",
+  "dni" : "31730572W",
+  "puesto" : "Dibujo P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "626895904",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pacheco Rodríguez",
+  "nombre" : " Isabel María",
+  "dni" : "24882305P",
+  "puesto" : "Orientación Educativa P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : [ 2020, 9, 4 ],
+  "telefono" : "952796064",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Palma Ruiz",
+  "nombre" : " Dámaris",
+  "dni" : "75136159N",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "646011409",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pariente Núñez",
+  "nombre" : " Rafael",
+  "dni" : "76637554J",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "610917127",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pastor Martínez",
+  "nombre" : " Pedro",
+  "dni" : "25075656K",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 21 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "625850519",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Peña Guzmán",
+  "nombre" : " Carlos",
+  "dni" : "53656255S",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "692231083",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pérez Alfaro",
+  "nombre" : " Emilia",
+  "dni" : "08921790K",
+  "puesto" : "Area de Lengua y CC. Soc. (Apoyo Covid)",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "687759273",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pérez Alfaro",
+  "nombre" : " Emilia",
+  "dni" : "76433581G",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 11, 3 ],
+  "fechaCese" : [ 2020, 12, 22 ],
+  "telefono" : "600015860",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Pérez Ruiz",
+  "nombre" : " Carlos",
+  "dni" : "42848833V",
+  "puesto" : "Equipos Electrónicos P.T.F.P.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "952791844",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Picón Sanz",
+  "nombre" : " José Manuel",
+  "dni" : "26211671C",
+  "puesto" : "Formación y Orientación Laboral P.E.S.",
+  "fechaPosesion" : [ 2020, 11, 9 ],
+  "fechaCese" : [ 2021, 3, 31 ],
+  "telefono" : "690939446",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Portillo Callejón",
+  "nombre" : " Noemí",
+  "dni" : "30236694C",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "663697861",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Prat Quiles",
+  "nombre" : " Francisco",
+  "dni" : "30974640B",
+  "puesto" : "Dibujo P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "622191146",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Quesada Beltrán",
+  "nombre" : " Luis",
+  "dni" : "75895274N",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 10, 20 ],
+  "fechaCese" : [ 2020, 12, 18 ],
+  "telefono" : "678776600",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Quesada Beltrán",
+  "nombre" : " Luis",
+  "dni" : "X9430310B",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 12, 2 ],
+  "fechaCese" : [ 2020, 12, 18 ],
+  "telefono" : "671558131",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Quesada Martín",
+  "nombre" : " Teresa",
+  "dni" : "53771268M",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "699717280",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rabinovich Camacho",
+  "nombre" : " Carlos",
+  "dni" : "08906635T",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 1991, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "696418007",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rabinovich Camacho",
+  "nombre" : " Carlos",
+  "dni" : "24279666S",
+  "puesto" : "Area Científico-Tecnolog. (Apoyo Covid)",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rabinovich Camacho",
+  "nombre" : " Carlos",
+  "dni" : "26466515R",
+  "puesto" : "Sistemas y Aplic. Informáticos P.T.F.P.",
+  "fechaPosesion" : [ 2003, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952800387",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rabinovich Camacho",
+  "nombre" : " Carlos",
+  "dni" : "08922687K",
+  "puesto" : "Música P.E.S.",
+  "fechaPosesion" : [ 2004, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952791390",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Revelles Rubio",
+  "nombre" : " Soraya",
+  "dni" : "76997333A",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "606111414",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rivas Rivas",
+  "nombre" : " José Manuel",
+  "dni" : "30458572V",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 1990, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "690006715",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rodilphe Núñez",
+  "nombre" : " Sheila",
+  "dni" : "25715185N",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "656905836",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rodríguez Montero",
+  "nombre" : " Rocío",
+  "dni" : "74816539T",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2010, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952890188",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rodríguez Moreno",
+  "nombre" : " María de la Concepciòn",
+  "dni" : "26816822H",
+  "puesto" : "Economía P.E.S.",
+  "fechaPosesion" : [ 2021, 2, 15 ],
+  "fechaCese" : [ 2021, 3, 31 ],
+  "telefono" : "647293458",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Rodríguez Pérez",
+  "nombre" : " Nazareth",
+  "dni" : "75251666J",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "950254657",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Romero Reyes",
+  "nombre" : " Marina Concepción",
+  "dni" : "74837904K",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "660326238",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Ruiz Bajo",
+  "nombre" : " Rosa María",
+  "dni" : "31841670X",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 1992, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952796088",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Saborido Pozo",
+  "nombre" : " Carmona",
+  "dni" : "14635310L",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "663208603",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Salcedo Aragón",
+  "nombre" : " María del Carmen",
+  "dni" : "71891915X",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "687257704",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Salguero Fernández",
+  "nombre" : " Guadalupe",
+  "dni" : "15472958F",
+  "puesto" : "Formación y Orientación Laboral P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "662598530",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sánchez González",
+  "nombre" : " Maud Brigitte Marie",
+  "dni" : "75721574P",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 16 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "656311792",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sánchez Pérez",
+  "nombre" : " Manuel",
+  "dni" : "74901717D",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2001, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952796927",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sánchez Pérez",
+  "nombre" : " Manuel",
+  "dni" : "52296143P",
+  "puesto" : "Francés P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "951715669",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sánchez Romero",
+  "nombre" : " Marta",
+  "dni" : "77452049D",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2018, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952796197",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Santana Ortega",
+  "nombre" : " Ángela",
+  "dni" : "25975666H",
+  "puesto" : "Economía P.E.S.",
+  "fechaPosesion" : [ 1997, 9, 15 ],
+  "fechaCese" : null,
+  "telefono" : "952791737",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sastre GarcÃ­a",
+  "nombre" : " David",
+  "dni" : "77348976E",
+  "puesto" : "Geografía e Historia P.E.S.",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "680671354",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Sastre GarcÃ­a",
+  "nombre" : " David",
+  "dni" : "25333003K",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "649681212",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Serena León",
+  "nombre" : " Ana María",
+  "dni" : "26012958G",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaPosesion" : [ 2010, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "639675154",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Serrano Maján",
+  "nombre" : " Isabel",
+  "dni" : "45070008J",
+  "puesto" : "Música P.E.S.",
+  "fechaPosesion" : [ 2001, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Silva Macías",
+  "nombre" : " Fernando",
+  "dni" : "74853120B",
+  "puesto" : "Audición y Lenguaje Eso. (Signos)",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "952438739",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Soria De Vila",
+  "nombre" : " Antonio Jesús",
+  "dni" : "44575768C",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "666533066",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Tirado Pérez",
+  "nombre" : " María Inmaculada",
+  "dni" : "44580305A",
+  "puesto" : "Proc. Gestión Administrativa P.T.F.P.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "655378521",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Torres Silva",
+  "nombre" : " Antonia",
+  "dni" : "08929037T",
+  "puesto" : "Sistemas y Aplic. Informáticos P.T.F.P.",
+  "fechaPosesion" : [ 2008, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "654167765",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Ucha Montes",
+  "nombre" : " María Isabel",
+  "dni" : "34029354A",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 2020, 10, 7 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "679155637",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Valero Gamarra",
+  "nombre" : " María Herminia",
+  "dni" : "48956848Z",
+  "puesto" : "Inglés P.E.S.",
+  "fechaPosesion" : [ 2016, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "656953206",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vallés Martos",
+  "nombre" : " Natalia",
+  "dni" : "74882954Z",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "635257811",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vallés Martos",
+  "nombre" : " Natalia",
+  "dni" : "09057185S",
+  "puesto" : "Economía P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 31 ],
+  "telefono" : "618072577",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vargas-Machuca Rincón",
+  "nombre" : " Eduardo Jesús",
+  "dni" : "26206754W",
+  "puesto" : "Equipos Electrónicos P.T.F.P.",
+  "fechaPosesion" : [ 1989, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "952807681",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vega Mancera",
+  "nombre" : " Silvia",
+  "dni" : "76368363Z",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaPosesion" : [ 2014, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "981231728",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vidal Morillas",
+  "nombre" : " María Nieves",
+  "dni" : "32028489T",
+  "puesto" : "Administración de Empresas P.E.S.",
+  "fechaPosesion" : [ 1992, 10, 1 ],
+  "fechaCese" : null,
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Vidal Morillas",
+  "nombre" : " María Nieves",
+  "dni" : "27347116R",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 2012, 9, 1 ],
+  "fechaCese" : null,
+  "telefono" : "605837861",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Viedma Canca",
+  "nombre" : " Pablo Manuel",
+  "dni" : "31831916P",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaPosesion" : [ 1989, 10, 1 ],
+  "fechaCese" : [ 2020, 10, 5 ],
+  "telefono" : "",
+  "evaluador" : "Sí",
+  "coordinador" : "Sí"
+}, {
+  "apellidos" : "Young García",
+  "nombre" : " María Lucía",
+  "dni" : "24259915K",
+  "puesto" : "Informática P.E.S.",
+  "fechaPosesion" : [ 2020, 9, 1 ],
+  "fechaCese" : [ 2021, 6, 30 ],
+  "telefono" : "667912025",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+}, {
+  "apellidos" : "Zapata Moreno",
+  "nombre" : " Nerea del Rocío",
+  "dni" : "08915544P",
+  "puesto" : "Laboral Religión (Sec-Ere) Jor.Completa",
+  "fechaPosesion" : [ 2019, 9, 1 ],
+  "fechaCese" : [ 2021, 8, 30 ],
+  "telefono" : "675171749",
+  "evaluador" : "Sí",
+  "coordinador" : "No"
+} ]

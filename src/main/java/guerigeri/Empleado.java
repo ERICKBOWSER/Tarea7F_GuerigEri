@@ -12,25 +12,36 @@ import java.util.Objects;
  * @author guerig
  */
 public class Empleado {
-    private String empleado;
+    private String apellidos;
+    private String nombre;
     private String dni;
     private String puesto;
     private LocalDate fechaPosesion;
     private LocalDate fechaCese;
-    private int telefono;
+    private String telefono;
     private String evaluador;
     private String coordinador;
 
     public Empleado() {
     }
 
-    public String getEmpleado() {
-        return empleado;
+    public String getApellidos() {
+        return apellidos;
     }
 
-    public void setEmpleado(String empleado) {
-        this.empleado = empleado;
+    public void setApellidos(String apellidos) {
+        this.apellidos = apellidos;
     }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+
 
     public String getDni() {
         return dni;
@@ -64,11 +75,11 @@ public class Empleado {
         this.fechaCese = fechaCese;
     }
 
-    public int getTelefono() {
+    public String getTelefono() {
         return telefono;
     }
 
-    public void setTelefono(int telefono) {
+    public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
 
@@ -114,7 +125,8 @@ public class Empleado {
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append("Empleado{");
-        sb.append("Empleado = ").append(empleado).append(";");
+        sb.append("Apellidos = ").append(apellidos).append(";");
+        sb.append("Nombre = ").append(nombre).append(";");
         sb.append("Dni = ").append(dni).append(";");
         sb.append("Puesto = ").append(puesto).append(";");
         sb.append("FechaPosesion = ").append(fechaPosesion).append(";");
